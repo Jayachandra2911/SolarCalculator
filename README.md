@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# Welcome to My CSP Project 
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f57cfded-8839-4659-8756-d8101919e59d
+**URL**: https://solar-cost-estimater.netlify.app/
 
-## How can I edit this code?
+☀️ Project Overview
+A web application that estimates the installation cost and savings of a solar power system for your home or business.
 
-There are several ways of editing your application.
+Built with a responsive and modern UI using React and Tailwind CSS for smooth user experience.
 
-**Use Lovable**
+Hosted on Netlify for fast, global delivery and easy continuous deployment.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f57cfded-8839-4659-8756-d8101919e59d) and start prompting.
+⚙️ Key Features
+User-friendly input forms to gather data like average energy usage, roof size, and electricity rates.
 
-Changes made via Lovable will be committed automatically to this repo.
+Instant cost and savings estimates displayed as interactive charts.
 
-**Use your preferred IDE**
+Integration of local energy rates to produce more accurate calculations.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Interactive graphs (e.g. using Recharts) to visualize:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Total cost vs. potential savings over time.
 
-Follow these steps:
+Payback period and ROI.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Lightweight, fast-loading UI for both desktop and mobile.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🧑‍💻 Technologies Used
+React (Vite) for a fast, modular front-end.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Tailwind CSS for modern, utility-first styling.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Charting libraries (e.g. Recharts) for data visualization.
 
-**Edit a file directly in GitHub**
+Hosted on Netlify with automated builds.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Responsive design for accessibility across devices.
 
-**Use GitHub Codespaces**
+🌍 Impact & Benefits
+Empowers homeowners with accurate estimates before they invest in solar.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Promotes sustainable energy by making solar adoption decisions clearer.
 
-## What technologies are used for this project?
+Reduces friction in going solar by answering key questions like:
 
-This project is built with:
+"How much will I save per year?"
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+"What’s my break-even point?"
 
-## How can I deploy this project?
+"Is my location suitable?"
 
-Simply open [Lovable](https://lovable.dev/projects/f57cfded-8839-4659-8756-d8101919e59d) and click on Share -> Publish.
+🎯 Future Enhancements
+Add a feature for comparing different solar panel brands and their efficiency.
 
-## Can I connect a custom domain to my Lovable project?
+Include a financing calculator to show savings with loans or incentives.
 
-Yes, you can!
+Fetch real-time solar panel prices & local utility rates via APIs.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Offer a downloadable report/PDF of the estimate.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+
+📄 Project Description
+Solar Cost Estimator is a responsive, interactive web application built with React and styled using Tailwind CSS. It enables homeowners and businesses to estimate the cost of installing solar panels, projected savings over time, and return on investment — all in just a few clicks. Hosted on Netlify for fast, reliable performance, the app takes user inputs like average energy consumption, electricity rates, and rooftop area to instantly generate customized solar cost estimates and savings projections. Visual graphs and metrics help users make informed decisions about transitioning to clean energy.
+
+🌍 Real-Time Use Case
+Imagine a homeowner who’s curious about going solar but doesn’t know where to begin. They visit the Solar Cost Estimator, enter their average monthly electricity bill and approximate roof size, then instantly see:
+
+The estimated installation cost for the required number of solar panels.
+
+The projected yearly savings on electricity bills.
+
+The approximate payback period before the solar system pays for itself.
+
+Visual charts showing cumulative savings over the next 10–20 years.
+
+With this easy and instant calculation — without waiting for a salesperson — the homeowner can decide whether solar power is worth pursuing, potentially taking the next step toward a more sustainable, cost-effective energy future.
